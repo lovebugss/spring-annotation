@@ -6,6 +6,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * @author renjp
+ */
 @Configuration
 @ComponentScan("com.itrjp.bean")
 public class AnnotationConfig {
